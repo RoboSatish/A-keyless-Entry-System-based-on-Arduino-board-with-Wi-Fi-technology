@@ -1,0 +1,41 @@
+/* CSS Document */
+
+body {
+	margin: auto;
+	height: 500px;
+	padding: 20px;
+	background:url("images/bg5.jpg");
+	background-size: cover;
+	
+}
+
+#header {
+	width: 700px;
+	color: #fff;
+	font-size: 60px;
+	margin-top: 12%;
+	margin-left: 27%;
+	margin-right: 30%;
+	
+	border-bottom: 1px solid #fff;
+	font-family: Berlin Sans FB;
+
+}
+
+#footer {
+	border-top: 1px solid green;
+	margin-top: 20px;
+	color: #336699;
+	padding-top: 10px;	
+}
+.msg{
+	color: #fff;
+	font-family: Arial;
+	margin: 13%;
+	margin-left: 40%;
+	margin-bottom: 5px;
+}
+#btns{
+	margin-right: 5px;
+	margin-left: 43%;
+}
